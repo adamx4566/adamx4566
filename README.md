@@ -1,11 +1,10 @@
 ```json
 {
-  "job": "Software engineer",
-  "birthday": "1993-08-18",
-  "country": "France",
-  "city": "Montpellier",
-  "stack": ["Javascript", "Python", "Go", "Docker", "AWS", "..."],
-  "interest": ["Tech", "Running", "Cycling", "Hiking", "..."]
+  "job": "High school student",
+  "birthday": "2007-10-22",
+  "country": "Poland",
+  "city": "Bielsko-Biala",
+  "stack": ["Javascript", "HTML", "CSS"]
 }
 ```
 
