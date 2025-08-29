@@ -1,11 +1,11 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="LINK_DO_BREAKOUT_DARK"
+    srcset="images/breakout-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="LINK_DO_BREAKOUT_LIGHT"
+    srcset="images/breakout-light.svg"
   />
-  <img alt="Breakout Game" src="LINK_DO_BREAKOUT_LIGHT" />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
