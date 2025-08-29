@@ -7,5 +7,5 @@
     media="(prefers-color-scheme: light)"
     srcset="[images/breakout-light.svg](https://github.com/adamx4566/github-breakout/blob/github-breakout/images/breakout-light.svg)"
   />
-  <img alt="Breakout Game" src="[images/breakout-light.svg](https://github.com/adamx4566/github-breakout/blob/github-breakout/images/breakout-light.svg)" />
+  <img alt="Breakout Game" src="[images/breakout-light.svg](https://github.com/adamx4566/gitthub-breakout/images/breakout-light.svg)" />
 </picture>
