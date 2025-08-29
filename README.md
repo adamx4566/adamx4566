@@ -1,3 +1,14 @@
+```json
+{
+  "job": "Software engineer",
+  "birthday": "1993-08-18",
+  "country": "France",
+  "city": "Montpellier",
+  "stack": ["Javascript", "Python", "Go", "Docker", "AWS", "..."],
+  "interest": ["Tech", "Running", "Cycling", "Hiking", "..."]
+}
+```
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
