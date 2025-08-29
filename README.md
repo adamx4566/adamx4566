@@ -4,7 +4,7 @@
   "birthday": "2007-10-22",
   "country": "Poland",
   "city": "Bielsko-Biala",
-  "stack": ["Javascript", "HTML", "CSS"]
+  "Technologies": ["Javascript", "HTML", "CSS"]
 }
 ```
 
