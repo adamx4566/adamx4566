@@ -19,7 +19,9 @@
   />
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/adamx4566/github-breakout/refs/heads/github-breakout/images/breakout-light.svg" />
 </picture>
+
 <br>
+
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adamx4566&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=adamx4566&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 </div>
