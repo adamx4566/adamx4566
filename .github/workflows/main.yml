@@ -16,8 +16,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: generate SVG
-        uses: cyprieng/github-breakout@v1.0.0
+      - name: generate-breakout-game-from-github-contribution-graph
+        uses: cyprieng/github-breakout@v1.2.3
         with:
           github_username: ${{ github.repository_owner }}
 
