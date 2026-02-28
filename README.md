@@ -11,13 +11,13 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/adamx4566/github-breakout/refs/heads/github-breakout/images/breakout-dark.svg"
+    srcset="https://raw.githubusercontent.com/adamx4566/adamx4566/github-breakout/images/breakout-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/adamx4566/github-breakout/refs/heads/github-breakout/images/breakout-light.svg"
+    srcset="https://raw.githubusercontent.com/adamx4566/adamx4566/github-breakout/images/breakout-light.svg"
   />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/adamx4566/github-breakout/refs/heads/github-breakout/images/breakout-light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/adamx4566/adamx4566/github-breakout/images/breakout-light.svg" />
 </picture>
 
 <br>
