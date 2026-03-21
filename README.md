@@ -4,7 +4,7 @@
   "birthday": "2007-10-22",
   "country": "Poland",
   "city": "Bielsko-Biala",
-  "Technologies": ["Javascript", "HTML", "CSS", "C++", "TypeScript"]
+  "Technologies": ["Javascript", "HTML", "CSS", "C++", "TypeScript", "Python", "React", "Vite", "Three.js", "Tailwind CSS", "Radix UI", "Supabase". "PostgreSQL", "Vercel"]
 }
 ```
 
